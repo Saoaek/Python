@@ -9,8 +9,8 @@ This data set contains booking information for a city hotel and a resort hotel, 
 ## Key Findings
 
 ### Hotel Type and Seasonal Trends
-**Hotel Type Booking Ratios:** City hotels account for 58.9% of total bookings, while resort hotels make up 41.1%.
-**Seasonal Booking Trends:** The peak booking season is identified as July and August, as measured by the highest number of bookings.
+- **Hotel Type Booking Ratios:** City hotels account for 58.9% of total bookings, while resort hotels make up 41.1%.
+- **Seasonal Booking Trends:** The peak booking season is identified as July and August, as measured by the highest number of bookings.
 
 ### Cancellation Patterns and Market Segments
 5. **Lead Time and Cancellation Correlation:** Bookings that were not canceled typically have a shorter lead time than those that were canceled.
