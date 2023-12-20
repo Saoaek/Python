@@ -3,18 +3,8 @@
 ## Project Overview
 This project aims to analyze a comprehensive dataset of hotel bookings for both a city hotel and a resort hotel. By examining various aspects of the booking data, we seek to uncover key trends and patterns in the hospitality industry.
 
-This hotel booking dataset can help you explore those questions!
-
 ## Dataset Description
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
-
-## SQL Queries
-
-The analysis phase encompassed a variety of queries to derive meaningful insights:
-
-- **Continental Overview:** This query determined the number of continents, the number of countries in each continent, and their total populations.
-- **Population Extremes:** This part identified the highest and lowest population figures for each continent.
-- **Decadal Population Change:** Focused on countries like Russia, examining population decreases over the past decade.
 
 ## Key Findings
 - **Population Distribution**: The Asian continent had the highest population in 2010, with significant contributions from China and India.
