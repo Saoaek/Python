@@ -4,7 +4,7 @@
 Today, the world's population is constantly increasing, and understanding the drivers behind these changes is crucial. This project involves an in-depth exploration of world population data, focusing on examining the trends of population growth in each country or region. Such an analysis can aid in preparing for the challenges that countries face both today and in the future.
 
 ## Dataset Description
-The dataset includes listings about countries and their populations. It includes details such as the name of the country, the continent it belongs to, its population, the relevant year of the population data, and the country_id.
+This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 ## SQL Queries
 
