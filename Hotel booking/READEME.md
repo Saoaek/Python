@@ -22,7 +22,6 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 The analysis of the hotel booking data yields several crucial insights:
 
-- The city and resort hotels cater to distinct market segments, reflected in their booking ratios and seasonal trends.
 - The summer months, particularly July and August, emerge as the high season for both hotel types, but they also bring the highest rates of cancellations, especially in city hotels.
 - The ADR analysis indicates a correlation between high cancellations and higher rates, particularly noticeable in resort hotels during peak months.
 - Market segment analysis reveals that the Online TA segment, despite being popular, faces a high rate of cancellations, highlighting an area for strategic focus and improvement.
