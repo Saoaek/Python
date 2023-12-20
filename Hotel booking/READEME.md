@@ -12,7 +12,7 @@ This data set contains booking information for a city hotel and a resort hotel, 
 - **Hotel Type Booking Ratios:** City hotels account for 58.9% of total bookings, while resort hotels make up 41.1%.
 - **Seasonal Booking Trends:** The peak booking season is identified as July and August, as measured by the highest number of bookings.
 
-### Cancellation Patterns and Market Segments
+### Cancellation Patterns
 - **Lead Time and Cancellation Correlation:** Bookings that were not canceled typically have a shorter lead time than those that were canceled.
 - **Median Lead Time Analysis:** The median lead time for the non-canceled group is significantly lower than the canceled group (38 days compared to 80 days).
 - **Cancellation Pattern Over Year:** The frequency of cancellations increases each month, peaking in July and August, and then tends to decrease from September to December.
