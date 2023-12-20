@@ -7,14 +7,29 @@ This project aims to analyze a comprehensive dataset of hotel bookings for both 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 ## Key Findings
-- **Population Distribution**: The Asian continent had the highest population in 2010, with significant contributions from China and India.
-- **Population Increase**: A majority of countries (188 out of 212) experienced a population increase, with India recording the highest growth.
-- **Population Decrease**: A total of 24 countries, mainly in Europe, observed a decrease in their population.
-- **Population Rankings and Percentages**: This part of the analysis involved calculating and ranking countries based on their 2010 populations, as well as determining their percentages of the global population.
+
+### Hotel Type and Seasonal Trends
+**Hotel Type Booking Ratios:** City hotels account for 58.9% of total bookings, while resort hotels make up 41.1%.
+**Seasonal Booking Trends:** The peak booking season is identified as July and August, as measured by the highest number of bookings.
+
+### Cancellation Patterns and Market Segments
+5. **Lead Time and Cancellation Correlation:** Bookings that were not canceled typically have a shorter lead time than those that were canceled.
+6. **Median Lead Time Analysis:** The median lead time for the non-canceled group is significantly lower than the canceled group (38 days compared to 80 days).
+7. **Cancellation Pattern Over Year:** The frequency of cancellations increases each month, peaking in July and August, and then tends to decrease from September to December.
+8. **High Season Cancellations and ADR:** Both the number of cancellations and the ADR are notably high in July and August.
+9. **July Cancellations and ADR Gap in City Hotel:** During July, which has a high rate of cancellations, the ADR gap for City Hotel bookings is relatively small.
+10. **City Hotel July Analysis:** For City Hotels in July, despite the small ADR difference between booking statuses, cancellation rates remain high.
+11. **Resort Hotel Cancellation and ADR Trend:** For Resort Hotels, a higher number of cancellations typically correlates with a higher ADR.
+12. **Online TA as Preferred Segment:** The Online Travel Agent (TA) market segment is the most popular, accounting for 50% of total bookings.
+13. **Online TA Cancellation Issue:** The Online TA segment faces challenges as the number of canceled bookings is about half of the non-canceled bookings.
+14. **Group Bookings and Lead Time:** For the cancellation group, bookings made under the "Groups" market segment tend to have a significantly higher lead time compared to other segments.
 
 ## Conclusions
-1. The Asian continent, primarily driven by the populations of China and India, holds a commanding lead in global population numbers.
-2. Most countries worldwide experienced population growth from 2000 to 2010, with India seeing the most significant increase.
-3. A smaller group of countries, mainly in Europe, experienced population declines.
-4. Russia stood out as a major country with a declining population trend throughout the decade
-5. China held the highest population in Asia, while Niue had the lowest in Oceania.
+
+The analysis of the hotel booking data yields several crucial insights:
+
+- The city and resort hotels cater to distinct market segments, reflected in their booking ratios and seasonal trends.
+- The summer months, particularly July and August, emerge as the high season for both hotel types, but they also bring the highest rates of cancellations, especially in city hotels.
+- The ADR analysis indicates a correlation between high cancellations and higher rates, particularly noticeable in resort hotels during peak months.
+- Market segment analysis reveals that the Online TA segment, despite being popular, faces a high rate of cancellations, highlighting an area for strategic focus and improvement.
+- The "Groups" segment, particularly within the cancellation group, shows a trend of significantly longer lead times, suggesting a need for tailored strategies in managing group bookings.
