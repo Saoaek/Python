@@ -13,16 +13,10 @@ This data set contains booking information for a city hotel and a resort hotel, 
 - **Seasonal Booking Trends:** The peak booking season is identified as July and August, as measured by the highest number of bookings.
 
 ### Cancellation Patterns and Market Segments
-5. **Lead Time and Cancellation Correlation:** Bookings that were not canceled typically have a shorter lead time than those that were canceled.
-6. **Median Lead Time Analysis:** The median lead time for the non-canceled group is significantly lower than the canceled group (38 days compared to 80 days).
-7. **Cancellation Pattern Over Year:** The frequency of cancellations increases each month, peaking in July and August, and then tends to decrease from September to December.
-8. **High Season Cancellations and ADR:** Both the number of cancellations and the ADR are notably high in July and August.
-9. **July Cancellations and ADR Gap in City Hotel:** During July, which has a high rate of cancellations, the ADR gap for City Hotel bookings is relatively small.
-10. **City Hotel July Analysis:** For City Hotels in July, despite the small ADR difference between booking statuses, cancellation rates remain high.
-11. **Resort Hotel Cancellation and ADR Trend:** For Resort Hotels, a higher number of cancellations typically correlates with a higher ADR.
-12. **Online TA as Preferred Segment:** The Online Travel Agent (TA) market segment is the most popular, accounting for 50% of total bookings.
-13. **Online TA Cancellation Issue:** The Online TA segment faces challenges as the number of canceled bookings is about half of the non-canceled bookings.
-14. **Group Bookings and Lead Time:** For the cancellation group, bookings made under the "Groups" market segment tend to have a significantly higher lead time compared to other segments.
+- **Lead Time and Cancellation Correlation:** Bookings that were not canceled typically have a shorter lead time than those that were canceled.
+- **Median Lead Time Analysis:** The median lead time for the non-canceled group is significantly lower than the canceled group (38 days compared to 80 days).
+- **Cancellation Pattern Over Year:** The frequency of cancellations increases each month, peaking in July and August, and then tends to decrease from September to December.
+- **High Season Cancellations and ADR:** Both the number of cancellations and the ADR are notably high in July and August.
 
 ## Conclusions
 
